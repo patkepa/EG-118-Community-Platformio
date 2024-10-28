@@ -1,2 +1,2 @@
-# PUSR-USR-EG-118-100M-EXAMPLE
-This repository contains example code for PUSR EG-118 IoT Device
+# PUSR EG-118 Example Platformio Code
+This repository contains example code for PUSR EG-118 IoT Device for Platformio 
