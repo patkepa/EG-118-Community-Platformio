@@ -7,9 +7,8 @@ void setup() {
     
     DEBUG_SERIAL.begin(115200);
     Serial.println("Hello World!");
-    
-    // For some odd reason, it starts printing weird stuff suddenly. Not confirmed if it works
-    // usr_io.init(); 
+  
+    // usr_io.init();  // For some odd reason, it starts printing weird stuff suddenly. Not confirmed if it works
     
 }
 
