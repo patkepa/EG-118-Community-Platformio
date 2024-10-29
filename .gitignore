@@ -1,3 +1,23 @@
+# macOS System files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS Finder attributes
+Icon?
+._*
+
+# macOS specific temporary files
+.Spotlight-V100
+.Trashes
+.DS_Store
+._*
+.fseventsd
+.VolumeIcon.icns
+.metadata_never_index
+# Thumbnails
+.DS_Store?
+
 # Prerequisites
 *.d
 
